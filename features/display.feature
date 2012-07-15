@@ -1,5 +1,6 @@
 Feature: Calculator display
 
+  @wip
   Scenario: Calculator display can only support 13 characters
     Given the input "4/3"
     When the calculator is run
